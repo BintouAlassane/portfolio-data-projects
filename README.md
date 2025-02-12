@@ -1,6 +1,6 @@
 # Data Projects Portfolio
 
-Bienvenue sur mon espace GitHub ! Vous trouverez ici une collection de projets en Data Science, Data Engineering et Business Intelligence, illustrant mes compétences en SQL, Python, Big Data et Cloud Computing.
+Bienvenue sur mon espace GitHub ! Vous trouverez ici une collection de projets en Data Science et Data Engineering, illustrant mes compétences en SQL, Python, Big Data et Cloud Computing.
 
 # 📂 Contenu du Repository
 
