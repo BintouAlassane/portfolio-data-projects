@@ -4,20 +4,7 @@ Bienvenue sur mon espace GitHub ! Vous trouverez ici une collection de projets e
 
 # 📂 Contenu du Repository
 
-## 1° Projet candidatures | octobre 2024
-
-### Projet : 
-
-### Contexte :  
-
-### Tâches : 
-
-### Résultats : 
-
-### Environnement :  
-
-
-## 2° Création d’un pipeline de données | septembre 2024 
+## 1° Création d’un pipeline de données | septembre 2024 
 
 ### Contexte :  
 Création d’un pipeline de données pour analyser l’impact des périodes de vacances sur la demande et l’offre de produits de Walmart
@@ -34,7 +21,7 @@ Création d’un pipeline de données pour analyser l’impact des périodes de 
 ETL, Python, PostgreSQL, Jupyter Notebook, Parquet, CSV 
 
 
-## 3° Système de recommandation de films | février 2023 
+## 2° Système de recommandation de films | février 2023 
 
 ### Contexte :  
 Le but de ce projet était de générer un système de recommandation de films  
