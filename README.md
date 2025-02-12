@@ -4,7 +4,7 @@ Bienvenue sur mon espace GitHub ! Vous trouverez ici une collection de projets e
 
 # 📂 Contenu du Repository
 
-## 1° Projet candidatures | ocotbre 2024
+## 1° Projet candidatures | octobre 2024
 
 ### Projet : 
 
@@ -21,8 +21,8 @@ Bienvenue sur mon espace GitHub ! Vous trouverez ici une collection de projets e
 Création d’un pipeline de données pour analyser l’impact des périodes de vacances sur la demande et l’offre de produits de Walmart
 
 ### Tâches : 
-•	Fusion de données (PostgreSQL) et nettoyage pour obtenir un DataFrame propre.
-•	Analyse des ventes mensuelles et visualisation avec Python et Jupyter Notebook.
+•	Fusion de données (PostgreSQL) et nettoyage pour obtenir un DataFrame propre
+•	Analyse des ventes mensuelles et visualisation avec Python et Jupyter Notebook
 
 ### Résultats :  
 •	Deux dataframes : un nettoyé et un avec les ventes mensuelles de Walmart 
@@ -55,6 +55,7 @@ Pour exécuter les notebooks et scripts Python de ce repository :
 ## Cloner le repository
 git clone https://github.com/BintouAlassane/portfolio-data-projects.git
 cd portfolio-data-projects
+
 
 # 📧 Contact
 
