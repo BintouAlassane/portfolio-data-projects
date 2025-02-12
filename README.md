@@ -24,6 +24,7 @@ Création d’un pipeline de données pour analyser l’impact des périodes de 
 
 ### Tâches : 
 •	Fusion de données (PostgreSQL) et nettoyage pour obtenir un DataFrame propre
+
 •	Analyse des ventes mensuelles et visualisation avec Python et Jupyter Notebook
 
 ### Résultats :  
@@ -39,7 +40,8 @@ ETL, Python, PostgreSQL, Jupyter Notebook, Parquet, CSV
 Le but de ce projet était de générer un système de recommandation de films  
 
 ### Tâches : 
-•	Nettoyage des données et transformation pour améliorer la qualité des recommandations  
+•	Nettoyage des données et transformation pour améliorer la qualité des recommandations 
+
 •	Développement d'un modèle de régression pour prédire des informations sur les films  
 
 ### Résultats :  
@@ -55,7 +57,7 @@ Python, Jupyter Notebook
 Pour exécuter les notebooks et scripts Python de ce repository :
 
 ## Cloner le repository
-git clone https://github.com/BintouAlassane/portfolio-data-projects.git
+git clone https://github.com/BintouAlassane/Portfolio-Data-Projects.git
 cd portfolio-data-projects
 
 
